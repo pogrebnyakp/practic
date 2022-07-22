@@ -1,0 +1,79 @@
+.header {
+
+
+  &__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    min-height: 80px;
+  }
+
+  &__list {
+    display: flex;
+  }
+
+  &__item {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 120%;
+    text-transform: uppercase;
+    color: #1D1F22;
+
+    &:hover,
+    &:focus {
+      color: #5ECE7B;
+      border-bottom: #5ECE7B 1px solid;
+      cursor: pointer;
+    }
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  &__logo {
+    width: 30px;
+    height: 30px;
+    background-image: url(../../pictures/logo__transparent.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    cursor: pointer;   
+  }
+  &__busket {
+    display: flex;
+  }
+}
+
+.busket {   
+  width: 30px;
+  height: 30px;
+  margin-left: 20px;
+  background-image: url(../../pictures/busket.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+.currency {
+  border: none;
+  cursor: pointer;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+  list-style: none;  
+}
+
