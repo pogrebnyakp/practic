@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a6929f84.chunk.css",
+    "main.js": "./static/js/main.2ea03dc3.chunk.js",
+    "main.js.map": "./static/js/main.2ea03dc3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8c9895b1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8c9895b1.js.map",
+    "static/js/2.f621b3a3.chunk.js": "./static/js/2.f621b3a3.chunk.js",
+    "static/js/2.f621b3a3.chunk.js.map": "./static/js/2.f621b3a3.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.a6929f84.chunk.css.map": "./static/css/main.a6929f84.chunk.css.map",
+    "static/js/2.f621b3a3.chunk.js.LICENSE.txt": "./static/js/2.f621b3a3.chunk.js.LICENSE.txt",
+    "static/media/Product__A__bag.24204ecb.png": "./static/media/Product__A__bag.24204ecb.png",
+    "static/media/Product__B__blouse.7fbc433c.png": "./static/media/Product__B__blouse.7fbc433c.png",
+    "static/media/Product__C__jamper.d3b45416.png": "./static/media/Product__C__jamper.d3b45416.png",
+    "static/media/Product__D__sweater.1461e43d.png": "./static/media/Product__D__sweater.1461e43d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c9895b1.js",
+    "static/js/2.f621b3a3.chunk.js",
+    "static/css/main.a6929f84.chunk.css",
+    "static/js/main.2ea03dc3.chunk.js"
+  ]
+}
